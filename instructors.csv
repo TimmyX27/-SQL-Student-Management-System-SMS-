@@ -1,0 +1,16 @@
+Instructor_ID,Name,Gender,Email,Hire_Date,Department_ID
+IT001,"Dr. Samuel Okoro",M,samuel.okoro@university.edu.ng,2023-03-15,DT001
+IT002,"Prof. Amina Yusuf",F,amina.yusuf@university.edu.ng,2023-05-21,DT002
+IT003,"Dr. Michael Adeniyi",M,michael.adeniyi@university.edu.ng,2024-02-10,DT003
+IT004,"Dr. Helen Chukwu",F,helen.chukwu@university.edu.ng,2023-07-09,DT004
+IT005,"Dr. Joseph Anya",M,joseph.anya@university.edu.ng,2023-10-03,DT005
+IT006,"Dr. Rita Oladimeji",F,rita.oladimeji@university.edu.ng,2024-01-20,DT006
+IT007,"Dr. Emeka Obi",M,emeka.obi@university.edu.ng,2023-08-12,DT001
+IT008,"Dr. Clara Nwankwo",F,clara.nwankwo@university.edu.ng,2023-11-02,DT002
+IT009,"Mr. Daniel Peters",M,daniel.peters@university.edu.ng,2024-03-18,DT003
+IT010,"Prof. Mary Johnson",F,mary.johnson@university.edu.ng,2023-06-25,DT004
+IT011,"Dr. Aminu Bello",M,aminu.bello@university.edu.ng,2023-09-11,DT005
+IT012,"Ms. Funke Adeyemi",F,funke.adeyemi@university.edu.ng,2024-01-05,DT006
+IT013,"Dr. Samuel Kuti",M,samuel.kuti@university.edu.ng,2023-12-15,DT001
+IT014,"Dr. Ngozi Ezenwa",F,ngozi.ezenwa@university.edu.ng,2023-08-22,DT003
+IT015,"Mr. Olu Jacobs",M,olu.jacobs@university.edu.ng,2024-02-08,DT006

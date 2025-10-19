@@ -1,0 +1,21 @@
+Course_ID,Course_Name,Department_ID
+CS001,"Introduction to Programming",DT001
+CS002,"Data Structures",DT001
+CS003,"Database Systems",DT001
+CS004,"Algorithms and Complexity",DT001
+CS005,"Cell Biology",DT002
+CS006,Genetics,DT002
+CS007,Microbiology,DT002
+CS008,"Calculus I",DT003
+CS009,"Linear Algebra",DT003
+CS010,"Probability and Statistics",DT003
+CS011,"Classical Mechanics",DT004
+CS012,"Quantum Physics",DT004
+CS013,Thermodynamics,DT004
+CS014,Microeconomics,DT005
+CS015,Macroeconomics,DT005
+CS016,Econometrics,DT005
+CS017,"English Literature",DT006
+CS018,"Creative Writing",DT006
+CS019,"Academic Writing",DT006
+CS020,"Technical Communication",DT006
